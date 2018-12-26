@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ely-alamillo/graphql-server#readme",
   "dependencies": {
-    "graphql-yoga": "^1.16.9"
+    "graphql-yoga": "^1.16.9",
+    "prisma-binding": "^2.2.12"
   }
 }
